@@ -6,6 +6,7 @@
 
 <?php
 
+$ligne = "Notre formation DL commence aujourd'hui";
 echo $ligne . "<br>" . str_replace("aujourd'hui", "demain", $ligne);
 
 ?>
