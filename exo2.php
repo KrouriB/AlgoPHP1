@@ -6,6 +6,7 @@
 
 <?php
 
+$ligne = "Notre formation DL commence aujourd'hui";
 echo "La phrase « " . $ligne . " » contient " . str_word_count($ligne) . " mots.";
 
 ?>
